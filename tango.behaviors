@@ -1,0 +1,2 @@
+{:+ {:app [
+           (:lt.objs.style/provide-theme "tango" "tango.css")]}}

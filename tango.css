@@ -1,0 +1,24 @@
+/* #multi.theme-tango { background: white; }*/
+.cm-s-tango { background: #fff; color: #2e3436; }
+.cm-s-tango div.CodeMirror-cursor { background: #204a87; width: auto; border: 0; }
+.cm-s-tango .CodeMirror-gutters { background: #d3d7cf; }
+
+.cm-s-tango .CodeMirror-selected { background: #d8dcd3 !important; }
+.cm-s-tango .CodeMirror-focused .CodeMirror-selected { background: #babdd6 !important; }
+
+.cm-s-tango .cm-searching { background:#e9b96e; }
+.cm-s-tango .searching-current { background:#ce5c00; color:#fff; }
+
+/* trailing whitespace background: #ef2929 */
+
+.cm-s-tango .cm-builtin { color: #75507b; }
+.cm-s-tango .cm-comment { font-style: italic; color: #5f615c; }
+.cm-s-tango .cm-symbol,
+.cm-s-tango .cm-atom { font-weight: bold; color: #204a87; }
+.cm-s-tango .cm-qualifier { color: #5c3566; }
+.cm-s-tango .cm-variable { color: #2e3436; }
+.cm-s-tango .cm-keyword { color: #346604; }
+.cm-s-tango .cm-string,
+.cm-s-tango .cm-string-2 { color: #a40000; }
+.cm-s-tango .cm-type {color: #204a87; }
+.cm-s-tango .cm-link {font-style: underline; color: #204a87; }
