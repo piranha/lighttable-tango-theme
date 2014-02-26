@@ -1,7 +1,7 @@
 /* #multi.theme-tango { background: white; }*/
 .cm-s-tango { background: #fff; color: #2e3436; }
 /* .cm-s-tango div.CodeMirror-cursor { background: #295fa1; width: auto; border: 0; } */
-.cm-s-tango div.CodeMirror-cursor { border-left: 2px solid #295fa1; }
+.cm-s-tango.CodeMirror div.CodeMirror-cursor { border-left: 2px solid #295fa1; }
 .cm-s-tango .CodeMirror-gutters { background: #d3d7cf; }
 
 .cm-s-tango .CodeMirror-selected { background: #d8dcd3 !important; }
@@ -37,3 +37,5 @@
 .cm-s-tango span.cm-rainbow.cm-bracket.cm-bracket10 {color: #907373;}
 .cm-s-tango span.cm-rainbow.cm-bracket.cm-bracket11 {color: #6276ba;}
 .cm-s-tango span.cm-rainbow.cm-bracket.cm-bracket12 {color: #858580;}
+
+.CodeMirror-matchingbracket {background-color: #48e4d9;}
